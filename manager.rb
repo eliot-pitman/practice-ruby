@@ -37,7 +37,7 @@ class Manager < Employee
   
   def give_all_raises
     @employees.each do |employee|
-      @salary = employee.give_annual_raise
+      @employee.give_annual_raise
     end 
   end
 end
