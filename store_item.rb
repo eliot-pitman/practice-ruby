@@ -41,3 +41,10 @@ people1 = People.new(last_name: "Smith", first_name: "John", job_title: "Explore
 
 puts people1.print_person_info
 puts people1
+
+class Food
+  
+
+
+
+end
